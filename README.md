@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-08-17 02:23:20  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-08-17 04:37:57  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -57,8 +57,6 @@ hysteria2://652cc5d4-afbb-48f0-bb80-93bbc00b0415@hl.dport.top:33659?insecure=1&s
 hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?insecure=1&sni=file-oss-ccs-02.dafei.de#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8%20%231
 hysteria2://7fb6dcc5-5396-4b95-bfe3-789f5c0120be@hsxg.huasuan666.top:22153?insecure=1&sni=hsxg.huasuan666.top#%F0%9F%8D%B028%40oneclickvpnkeys
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@192.18.150.167:54530?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6%20%231
-hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.83.189:54530?insecure=1&sni=www.bing.com#Telegram%3A%40config_proxy%20%F0%9F%98%8D
-hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#Telegram%3A%40config_proxy%20%F0%9F%98%8D%20%232
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@172.252.236.213:46502?sni=real.getafreenode.sbs#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:59494?sni=real.getafreenode.sbs#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%A6
 hysteria2://Cyi3TPih9FtQRwsZAh8aT6ynGJk@54.169.144.240:2166?insecure=1#HK
@@ -70,7 +68,7 @@ hysteria2://RKrGw4dSUwK3YAvqdQI8tcqNl0@35.94.124.236:34060?insecure=1&sni=bing.c
 hysteria2://Wjes5mJnUmH7kwzpgZX5d2BeCs@143.110.156.170:13438?insecure=1&sni=bing.com#%F0%9F%87%BA%F0%9F%87%B8US
 hysteria2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282?insecure=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%231
 hysteria2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854?insecure=1&sni=bing.com#%E9%A6%99%E6%B8%AF%20%231
-hysteria2://Y5kSCRNcOSz5YQUkjehzVXeT2mk@175.41.154.215:19298?insecure=1&sni=bing.com#Telegram%3A%40config_proxy%20%F0%9F%98%8D%20%233
+hysteria2://Y5kSCRNcOSz5YQUkjehzVXeT2mk@175.41.154.215:19298?insecure=1&sni=bing.com#%F0%9F%8D%B030%40oneclickvpnkeys
 hysteria2://a914681a-8dda-4c98-8468-c313f5539b14@sg3.eyucdn.xyz:2056?insecure=1&sni=sg3.eyucdn.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231
 hysteria2://b57bbf70-8958-4ae5-b6fd-bcf39b81900c@ovo.5188666.xyz:63518?insecure=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%232
 hysteria2://b7fd9c0c-18f8-426f-8ac7-f9aa3da2e214@45.136.245.177:80?insecure=1&obfs=salamander&obfs-password=OGU1NTEyMGE2ZDhkODdhOQ==#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8%20%232
@@ -506,10 +504,10 @@ trojan://Aimer@192.0.54.221:2083?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type
 trojan://Aimer@107.173.155.242:2087?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0363
 trojan://Aimer@107.172.87.159:12354?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0364
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/#ZA_speednode_0365
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202508150964186-XFJ7C2EYDL.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202508150964186-XFJ7C2EYDL.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202508150964186-XFJ7C2EYDL.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
 ```
 
