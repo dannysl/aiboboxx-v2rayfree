@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-09-15 12:53:16  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-09-15 16:31:31  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -106,8 +106,8 @@ vless://2a0ce0d5-cd10-4f7a-9c86-cf20fb2a9ce3@160.25.74.112:10109?allowInsecure=0
 vless://ef9ffa72-b723-4382-a7d6-88e2cd2aa773@160.25.74.112:10109?allowInsecure=0&sni=content.cdp.bethesda.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#VN_speednode_0028
 ss://YWVzLTI1Ni1nY206OGE2Y2ExNGMwOTM2@137.220.142.150:443?plugin=v2ray-plugin;mode=websocket;path=/wrdfiatyd;host=jpxw9v1.dashengjs.net;tls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local;obfs=http;obfs-host=202509121565513-hgGUWL4a7n.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206MmI1ZmFkMzg3NGU1@156.251.179.135:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/aqwshiog;host=hk6v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local;obfs=http;obfs-host=202509121565513-hgGUWL4a7n.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206MmI1ZmFkMzg3NGU1@156.251.179.135:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/aqwshiog;host=hk6v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
 
 ```
