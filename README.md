@@ -1,4 +1,4 @@
-# v2ray公益免费节点订阅  每日更新  更新时间 2025-10-07 01:54:18  
+# v2ray公益免费节点订阅  每日更新  更新时间 2025-10-07 04:29:29  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 | 客户端 | Android | Windows | iOS      |
@@ -86,11 +86,9 @@ hysteria2://dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs@103.249.133.79:4
 hysteria2://dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%239
 hysteria2://dailyconfigschannel@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%2310
 hysteria2://df36ace8-640b-42bb-8169-198901af6d9e@185.184.68.7.sslip.io:46129?insecure=1&obfs=salamander&obfs-password=JBPVtqk1kMBGleBcLZ#%40sunflowerplato
-hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#WI-FI--%40IRAN_V2RAY1%20%232
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?insecure=0#telegram-%40ISVvpn%20%232
 hysteria2://joindailyconfigschanel@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%2313
-hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?insecure=1&obfs=salamander&obfs-password=uvahwuicbhwabhvlhv#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%231
 hysteria2://miaoge110@45.58.38.153:40112?insecure=1&sni=www.bing.com#%40Daily_Configs%20%2314
 hysteria2://zanzendegiazadi@103.249.133.79:443?insecure=1&sni=ubuntu.com#%40Daily_Configs%20%2315
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.245.185.129:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian
