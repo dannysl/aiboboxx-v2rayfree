@@ -1,4 +1,4 @@
-# v2ray公益免费节点订阅  每日更新  更新时间 2025-10-17 12:53:40  
+# v2ray公益免费节点订阅  每日更新  更新时间 2025-10-17 16:31:27  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 | 客户端 | Android | Windows | iOS      |
@@ -155,9 +155,9 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?allowInsecure=0
 vless://c78e9094-6639-42cd-b917-cc96418f38a3@1002.952326.xyz:10001?allowInsecure=0&sni=www.python.org&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#US_speednode_0051
 trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?allowInsecure=0&sni=joss.krikkrik.xyz&type=ws&host=joss.krikkrik.xyz&path=/Free-VPN-CF-Geo-Project/AE5#US_speednode_0054
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local;obfs=tls;obfs-host=4a81070:6193#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local;obfs=tls;obfs-host=874b20d:48331#%E6%96%B0%E5%8A%A0%E5%9D%A15%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local;obfs=tls;obfs-host=d4cbbb2:42774#%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local;obfs=tls;obfs-host=874b20d:48331#%E6%96%B0%E5%8A%A0%E5%9D%A15%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local;obfs=tls;obfs-host=4a81070:6193#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 
 
 ```
