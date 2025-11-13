@@ -1,4 +1,4 @@
-# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2025-11-13 12:57:00  
+# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2025-11-13 16:33:56  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 | 客户端 | Android | Windows | iOS      |
@@ -186,15 +186,19 @@ trojan://2274c52572e721086f8bd8f88984643c@117.172.176.25:4054?allowInsecure=1&sn
 trojan://BxceQaOe@36.150.215.243:19220?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.9.17.198:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20
 vmess://eyJ2IjogIjIiLCAicHMiOiAi5pel5pysNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxNzUuMjkuMjIuMTAxIiwgInBvcnQiOiAiMjgwMTYiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZDI1NDAzMjUtOWFkNi0zM2Q3LWJlODYtMjU5YjViYmE0ZWY4IiwgInNuaSI6ICIifQ==
-trojan://BxceQaOe@116.49.237.130:4569?allowInsecure=1&sni=t.me%2Fripaojiedian#HK_speednode_0004
-https://test:test.+@testkr3.ssv.vc:30446
-trojan://c2d6a850-7e35-44f5-ab9f-8299f6f8c72b@194.147.115.149:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/194.147.115.149=443#NL_speednode_0006
-trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.144.48.158=8443#PL_speednode_0007
-vless://258a5f07-d07e-4de4-90b6-69a0ca34bab7@cdn.cloudconvert.top:10012?allowInsecure=0&sni=cdn.cloudconvert.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0008
-trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/213.159.208.88=2053#RU_speednode_0009
-vless://b25e3c62-f4eb-45df-adda-eb738959b845@104.167.199.50:443?allowInsecure=0&sni=bit-site.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0019
-ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@oshk02.mynode.me:2000?plugin=obfs-local;obfs=http;obfs-host=31832-qOf3ahM8.download.microsoft.com#%E9%A6%99%E6%B8%AF7%7C%40ripaojiedian
+trojan://88701884-7690-4b79-ac5d-36d299e05e83@34.22.190.30:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443#BE_speednode_0001
+trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/94.131.114.50=81#IL_speednode_0008
+vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@ges.jykvpn.com:443?allowInsecure=0&sni=cdnjs.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IQ_speednode_0010
+vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@fis.jykvpn.com:443?allowInsecure=0&sni=cdnjs.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IQ_speednode_0011
+vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@sws.jykvpn.com:443?allowInsecure=0&sni=cdnjs.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IQ_speednode_0012
+trojan://5ad5fe82-6b60-4f59-977b-93910ef7a9ca@86.107.197.239:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/86.107.197.239=443#NL_speednode_0015
+trojan://55d19115-ec40-407b-a674-74e6a948347a@45.144.48.55:2053?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.144.48.55=2053#PL_speednode_0016
+vless://258a5f07-d07e-4de4-90b6-69a0ca34bab7@cdn.cloudconvert.top:10007?allowInsecure=0&sni=cdn.cloudconvert.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0017
+trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/213.159.208.88=2053#RU_speednode_0018
+trojan://edeff73d-065d-4b0a-b848-aad9d3380223@77.221.141.207:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/77.221.141.207=443#SE_speednode_0020
+vless://bc4ee22b-87f5-4bc0-b0f5-3cd802d716e2@br.pouriau.com:2052?allowInsecure=0&sni=rosiassn.digikala.com.snnapfood.ir.varzesh3.com.shobb.ir.kdvhgkri558rvhnfjrdghriuygfkrdhihifjdfjssiedhfgjung2.bonyadedocker.ir.2.xziba.com.&type=ws&host=rosiassn.digikala.com.snnapfood.ir.varzesh3.com.shobb.ir.kdvhgkri558rvhnfjrdghriuygfkrdhihifjdfjssiedhfgjung2.bonyadedocker.ir.2.xziba.com.&path=/---ping---www.speedtest.net?ed=2080#US_speednode_0025
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@oshk02.mynode.me:2000?plugin=obfs-local;obfs=http;obfs-host=31832-qOf3ahM8.download.microsoft.com#%E9%A6%99%E6%B8%AF7%7C%40ripaojiedian
 
 
 ```
