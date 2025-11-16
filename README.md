@@ -1,4 +1,4 @@
-# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2025-11-16 12:49:18  
+# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2025-11-16 16:29:52  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 | 客户端 | Android | Windows | iOS      |
@@ -172,9 +172,9 @@ vless://df5fc3f7-6b01-489a-a73c-e1297b14a3dd@de.monkeyisland.life:8443?allowInse
 vless://0b0b98be-fdaf-40cc-a953-cc4091c838e1@217.154.218.42:443?allowInsecure=0&sni=azure.com&alpn=h2&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GB_speednode_0002
 trojan://e812343b-61a1-46fd-b086-b1395d0eb7de@89.110.116.141:443?allowInsecure=0&sni=joss.gpj.web.id&type=ws&host=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/89.110.116.141=443#NL_speednode_0004
 trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053?allowInsecure=0&sni=joss.gpj.web.id&type=ws&host=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/95.182.120.208=2053#RU_speednode_0005
-ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3.112.229.1:2377?plugin=obfs-local;obfs=tls;obfs-host=(TG @WangCai2)9d3f6ec:160648#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@59.125.62.188:2377?plugin=obfs-local;obfs=tls;obfs-host=(TG @WangCai2)9d3f6ec:160648#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3.112.229.1:2377?plugin=obfs-local;obfs=tls;obfs-host=(TG @WangCai2)9d3f6ec:160648#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
 
 ```
