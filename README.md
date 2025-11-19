@@ -1,4 +1,4 @@
-# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2025-11-18 16:37:11  
+# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2025-11-19 02:03:56  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 | 客户端 | Android | Windows | iOS      |
@@ -52,6 +52,7 @@ hysteria2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338?insecur
 hysteria2://09cc2935-0eb4-469a-9d67-2037c68440ca@speedhk1.jiasujd.top:24955?insecure=0&obfs=salamander&obfs-password=Ey8WkRLz34SadllK#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20MTMVPN%40
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%40V2rayNG3
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?insecure=0&sni=gb.gomeow.online#%40V2rayNG3%20%231
+hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743?insecure=0&sni=fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#All--%40IRAN_V2RAY1%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://20050105zhu@204.44.110.129:51541?insecure=1&sni=www.bing.com#All-%40V2rayAlpha--5
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=de8287cd33b05fa3#%40V2rayNG3%20%232
@@ -85,8 +86,8 @@ hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?insecure=1#
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@193.123.76.141:30102?insecure=1&sni=du.wish.ml#MCI-IR--%40V2rayAlpha-8
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?insecure=1#MCI-IR--%40V2rayAlpha-6
 hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?insecure=1#All-%40V2rayAlpha--3
-hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@141.147.52.24:44001?insecure=1#%40meli_proxyy%20%2323
-hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@92.5.77.25:44001?insecure=1&sni=www.bing.com#%40meli_proxyy%20%2324
+hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@141.147.52.24:44001?insecure=1#%40meli_proxyy%20%2315
+hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@92.5.77.25:44001?insecure=1&sni=www.bing.com#%40meli_proxyy%20%2316
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@195.133.79.116:22157?insecure=1&sni=🔒#All-%40V2rayAlpha--6
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@213.108.198.123:22155?insecure=1&sni=hsdg.huasuan666.top#All--%40V2rayAlpha--9
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?insecure=1&sni=hsdg.huasuan666.top#All--%40V2rayAlpha--7
@@ -112,6 +113,7 @@ hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1
 hysteria2://7ae1a8a7-b025-4bac-8949-9b1e45926a9a@hk2.mutoujs.top:20000?insecure=0&obfs=salamander&obfs-password=QqvCBoJpDEflbOYm#r%E2%99%A1ya%20%234
 hysteria2://7ae1a8a7-b025-4bac-8949-9b1e45926a9a@mg4.mutoujs.top:20000?insecure=0&obfs=salamander&obfs-password=DAnBPK1GxOdklGbv#r%E2%99%A1ya%20%235
 hysteria2://7ae1a8a7-b025-4bac-8949-9b1e45926a9a@sg1.mutoujs.top:30000?insecure=0&obfs=salamander&obfs-password=EH2tIccMXNSql76y#r%E2%99%A1ya%20%236
+hysteria2://7daa4a7f-f76e-4941-84bd-c6004cdbb859@94.249.197.95:30000?insecure=1&sni=bing.com#%40meli_proxyy%20%2320
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#%F0%9F%87%B8%F0%9F%87%AA%20-%20SE%20-%20%40freeOnlineVPN%20%234
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#All--%40V2rayAlpha--5%20%231
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?insecure=1&sni=www.bing.com#All-%40V2rayAlpha--44
@@ -119,6 +121,7 @@ hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?insecure=1
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#All--%40V2rayAlpha--8
 hysteria2://907d9a05-3bd2-4b44-b1f9-4f26dba76f88@141.147.52.24:44001?insecure=1#All-%40V2rayAlpha--5%20%231
 hysteria2://907d9a05-3bd2-4b44-b1f9-4f26dba76f88@85.208.9.189:44001?insecure=1&sni=www.bing.com#%40Selinc%20%232
+hysteria2://91bf574a-4a2f-42eb-bfa9-5824317f541c@node.waifly.com:28132?insecure=1&sni=example.com&obfs=salamander&obfs-password=09fdd186-3d5b-482a-a7b6-285cc88a38c8#%40meli_proxyy%20%2324
 hysteria2://92b2a3d4-f353-11ef-b714-f23c93136cb3@9b91d3c4-t53wg0-t6h87s-63bp.la.shifen.uk:443?insecure=0&sni=9b91d3c4-t53wg0-t6h87s-63bp.la.shifen.uk#All--%40IRAN_V2RAY1%F0%9F%87%BA%F0%9F%87%B8%20%232
 hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@de2.oomz.ru:30000?insecure=1&sni=bing.com#All--%40V2ray_Alpha-1
 hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@de3.oomz.ru:30000?insecure=1&sni=bing.com#All--%40V2ray_Alpha-2
