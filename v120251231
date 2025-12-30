@@ -1,51 +1,3 @@
-# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2025-12-31 00:38:36  
-所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
-
-| 客户端 | Android | Windows | iOS      |
-| ------ | ------- | ------- | -------- |
-| v2ray  | v2rayNG | v2rayN  | OneClick |
-## v2rayN使用教程：[点击查看](https://v2rayn100.com/) 
-
-## 节点导入方法  
-CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
-
-## 高速机场推荐1:【 ORYMI 】
-
-免费套餐 (抵扣码：FR666)
-
-- 套餐流量：20 GB
-- 带宽限制：5 Mbps
-- 优质隧道专线
-- 全平台客户端支持
-- 同时在线设备：2 台
-- 订单日重置流量
-- Mitm节点免登录观看netflix、disney
-
-网站注册地址：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】  九折优惠码：LxwSsaay
-
-注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-## 高速机场推荐2：【星辰加速】
-
-轻量型  9元/月
-
-- 流量：150 GB
-- 速度限制：∞ Gbps
-- 同时在线设备：不限制 台
-- 流量按月重置
-- 支持多平台使用
-- 解锁流媒体及ChatGPT
-
-网站地址：【[星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】  九折优惠码：3UJuVnqS
-
-注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-## v2ray免费节点订阅  
-- `https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v220251231`  
-
-## v2ray免费节点分享
-
-```  
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#GB%20SS-01%20%7C%20free-nodes
 vless://a5659dda-fed0-4214-90a7-e8dd9507c461@eng45.unlockspace.org:443?security=reality&type=tcp&sni=www.abingdon.org.uk&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&encryption=none#%E6%9C%AA%E7%9F%A5%20VLESS-02%20%7C%20free-nodes
 vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@fr1.tunnely.ru:443?security=reality&type=tcp&sni=fr1.tunnely.ru&fp=chrome&flow=xtls-rprx-vision&sid=2e40144ddc07e8e1&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&encryption=none#FR%20VLESS-03%20%7C%20free-nodes
@@ -255,6 +207,3 @@ vless://f3dc78d2-a8cb-3f6e-bebd-b223dfa91691@s746.okgfw.top:443?encryption=none&
 vless://f3dc78d2-a8cb-3f6e-bebd-b223dfa91691@s759.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s759.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u720947u6ff4s759.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#US%20VLESS-207%20%7C%20free-nodes
 vless://f3dc78d2-a8cb-3f6e-bebd-b223dfa91691@s739.ayxj.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s739.ayxj.top&path=&flow=xtls-rprx-vision&security=tls&sni=u720947uedads739.ayxj.top&serviceName=&mode=&alpn=#%E6%9C%AA%E7%9F%A5%20VLESS-208%20%7C%20free-nodes
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@google.com:443#%E6%9C%AA%E7%9F%A5%20SS-209%20%7C%20free-nodes
-```
-
-更多推荐：[免费节点](https://clashgithub.com)  [clash节点](https://github.com/free-nodes/clashfree) [clash下载](https://github.com/clashbk/clash)
